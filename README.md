@@ -1,7 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,7,5,2,0&height=200&section=header&text=Fight%20For%20Hash&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=13,9,7,5,3&height=200&section=header&text=Fight%20For%20Hash&fontSize=90)
 
-Cs Job seeker
+### <p style = "font-family:arial"> Cs Job seeker</p>
 
 ### <p style="font-family:verdana">Program</p>
 
