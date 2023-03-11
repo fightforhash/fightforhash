@@ -17,10 +17,10 @@
 
 <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"><img src = "https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white"><img src = "https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
 
-### <p style ="font-family:verdana"> Other Links</p>
+### <p style ="font-family:verdana">Links</p>
 
-<img src ="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"> <a href ="https://www.hackerrank.com/rackoon1030"> 
-
+<a href ="https://www.hackerrank.com/rackoon1030" target = "_blank"> <img src ="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"> 
+  
 [![Leetcode Stats](https://leetcard.jacoblin.cool/fightforhash?theme=unicorn&font=Nerko%20One&ext=activity)](https://leetcode.com/fightforhash) 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fightforhash&theme=blue-green)  
 
