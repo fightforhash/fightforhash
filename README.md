@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,7,5,2,0&height=200&section=header&text=Fight%20For%20Hash&fontSize=90)
-### Student who seeks a job in CS
-<img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+
+Cs Job seeker
 
 ### <p style="font-family:verdana">Program</p>
 
@@ -14,10 +14,16 @@
 <img src = "https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
 
 ### <p style="font-family:verdana">Design</p>
+
 <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"><img src = "https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white"><img src = "https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
 
+### <p style ="font-family:verdana"> Other Links</p>
+<a href ="https://www.hackerrank.com/rackoon1030"> <img src ="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fightforhash&theme=blue-green)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/fightforhash)](https://leetcode.com/fightforhash) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fightforhash&theme=blue-green)  
+
+
+
 
 
 
