@@ -1,3 +1,6 @@
+[![Leetcode Stats](https://leetcard.jacoblin.cool/fightforhash?theme=unicorn&font=Nerko%20One&ext=activity)](https://leetcode.com/fightforhash) 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fightforhash&theme=blue-green)  
+
 ### <p style="font-family:verdana">Program</p>
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/><img src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -16,8 +19,6 @@
 
 <a href ="https://www.hackerrank.com/rackoon1030" target = "_blank"> <img src ="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"> 
   
-[![Leetcode Stats](https://leetcard.jacoblin.cool/fightforhash?theme=unicorn&font=Nerko%20One&ext=activity)](https://leetcode.com/fightforhash) 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fightforhash&theme=blue-green)  
 
 
 
