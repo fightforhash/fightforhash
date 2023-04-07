@@ -1,8 +1,3 @@
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=13,9,7,5,3&height=200&section=header&text=Fight%20For%20Hash&fontSize=90)
-
-### <p style = "font-family:arial"> CS Job seeker</p>
-
 ### <p style="font-family:verdana">Program</p>
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/><img src ="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
