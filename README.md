@@ -1,4 +1,4 @@
-![](https://leetcard.fightforhash/fightforhash?theme=unicorn)
+![](https://leetcard.jacoblin.cool/fightforhash?theme=unicorn)
 
 fightforhash.github.io
 
