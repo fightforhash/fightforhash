@@ -30,16 +30,6 @@ Frontend is my core lane (UI architecture, state management, performance), and I
 
 ---
 
-## LeetCode (Consistency > Hype)
-
-<div align="center">
-
-![](https://leetcard.jacoblin.cool/fightforhash?ext=activity)
-
-</div>
-
----
-
 ## Tech Stack
 
 ### Frontend
