@@ -8,7 +8,7 @@
 # Thomas Ha — Frontend-Focused Full-Stack Engineer
 
 I build **clean, responsive, user-centered** web experiences with modern **React + TypeScript** ecosystems.  
-Frontend is my core lane (UI architecture, state management, performance), and I’m comfortable owning the full pipeline when needed—APIs, databases, and deployment.
+Frontend is my core focus (UI architecture, state management, performance), and I’m comfortable owning the full pipeline when needed—APIs, databases, and deployment.
 
 📍 Seattle, WA
 
@@ -24,7 +24,8 @@ Frontend is my core lane (UI architecture, state management, performance), and I
 
 - **Frontend Architecture (React/TypeScript):** component structure, reusability, scalability  
 - **Performance:** render optimization, memoization strategy, async stability  
-- **Production Workflow:** deployment reliability (Nginx/HTTPS/env/CORS/auth pitfalls)
+- **Production Workflow:** deployment reliability (Nginx/HTTPS/env/CORS/auth pitfalls)  
+- **Interview Prep:** structured problem-solving via NeetCode.io and type-based practice (arrays, trees, graphs, etc.)
 
 > I care about code that doesn’t just “work,” but **keeps working in production**.
 
@@ -62,13 +63,13 @@ A mobile-first platform that helps organizations manage and match lost & found i
 - **Stack:** React, Node.js, MongoDB, Tailwind, Docker, AWS (EC2/S3), Vercel, Auth0, Resend  
 - **Highlights**
   - Production-style auth and permissions (Auth0)
-  - Deployment debugging mindset (reverse proxy/HTTPS/CORS/env)
+  - Hands-on deployment troubleshooting (reverse proxy/HTTPS/CORS/env)
   - UX-first flows with mobile-first UI
 
 ---
 
 ### 2) FlashBack — Location-Aware Music Discovery PWA (In Development)
-An AR-inspired social PWA where users drop songs and stories on GPS “Memory Spots” for others to discover, with AI-assisted storytelling and personalized recommendations.
+A location-aware social PWA where users drop songs and stories on GPS “Memory Spots” for others to discover, with AI-assisted storytelling and personalized recommendations.
 
 - **Status:** In Development  
 - **Stack:** React, TypeScript, Tailwind, Vite, Firebase, Google Maps API, iTunes API, AI integrations  
@@ -89,8 +90,9 @@ Presented a poster covering system architecture, React/TypeScript frontend, Node
 
 ## Writing (Engineering Notes)
 
-Will be added soon
+Selected notes (in progress)
 
+---
 
 ## Experience
 
@@ -115,17 +117,10 @@ Will be added soon
 
 ---
 
-## Languages
-
-- English — Full professional proficiency  
-- Korean — Native / bilingual proficiency
-
----
-
 ## Outside of Code
 
-I’m a guitarist focused on blues and jazz fusion.  
-It keeps my creativity sharp—and helps me obsess over rhythm and timing (which somehow transfers to UI details).
+I’m a genre-versatile guitarist centered on groove, melodic phrasing, and harmony-driven improvisation.  
+It keeps my creativity sharp—and makes me obsess over rhythm and timing (which somehow transfers to UI details).
 
 ---
 
