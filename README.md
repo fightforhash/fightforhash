@@ -1,36 +1,3 @@
-<!-- =========================
-  GitHub Profile README
-  Thomas Ha (fightforhash)
-========================= -->
-
-<div align="center">
-
-# Thomas Ha — Frontend-Focused Full-Stack Engineer
-
-I build **clean, responsive, user-centered** web experiences with modern **React + TypeScript** ecosystems.  
-Frontend is my core focus (UI architecture, state management, performance), and I’m comfortable owning the full pipeline when needed—APIs, databases, and deployment.
-
-📍 Seattle, WA
-
-<a href="https://www.linkedin.com/in/thomas-h-75150019b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## Focus Right Now
-
-- **Frontend Architecture (React/TypeScript):** component structure, reusability, scalability  
-- **Performance:** render optimization, memoization strategy, async stability  
-- **Production Workflow:** deployment reliability (Nginx/HTTPS/env/CORS/auth pitfalls)  
-- **Interview Prep:** structured problem-solving via NeetCode.io and type-based practice (arrays, trees, graphs, etc.)
-
-> I care about code that doesn’t just “work,” but **keeps working in production**.
-
----
-
 ## Tech Stack
 
 ### Frontend
