@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 102 38" width="102" height="38" role="img" aria-label="LinkedIn">
+
+<defs>
+  <pattern id="perf" width="9" height="9" patternUnits="userSpaceOnUse">
+    <rect width="9" height="9" fill="#24272a"/><circle cx="4.5" cy="4.5" r="1.7" fill="#17191b"/>
+  </pattern>
+  <pattern id="brush" width="3" height="4" patternUnits="userSpaceOnUse">
+    <rect width="1" height="4" fill="#fff" fill-opacity=".07"/><rect x="1" width="2" height="4" fill="#000" fill-opacity=".035"/>
+  </pattern>
+  <pattern id="brushDark" width="3" height="4" patternUnits="userSpaceOnUse">
+    <rect width="1" height="4" fill="#fff" fill-opacity=".025"/>
+  </pattern>
+  <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity=".38"/><stop offset=".4" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".08"/>
+  </linearGradient>
+  <linearGradient id="sheenDark" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity=".08"/><stop offset=".45" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".25"/>
+  </linearGradient>
+  <linearGradient id="ear" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#2c2f33"/><stop offset=".45" stop-color="#3b3f44"/><stop offset="1" stop-color="#2c2f33"/>
+  </linearGradient>
+  <radialGradient id="screw" cx=".35" cy=".35" r=".75">
+    <stop offset="0" stop-color="#e6e9ec"/><stop offset=".55" stop-color="#8f969d"/><stop offset="1" stop-color="#5c6268"/>
+  </radialGradient>
+  <linearGradient id="lcd" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#a9c25a"/><stop offset="1" stop-color="#93ad44"/>
+  </linearGradient>
+  <linearGradient id="lcdShade" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#000" stop-opacity=".38"/><stop offset=".18" stop-color="#000" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="boot" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#5f97f5"/><stop offset=".6" stop-color="#2d6cdf"/><stop offset="1" stop-color="#1f4fa8"/>
+  </linearGradient>
+  <radialGradient id="glowG"><stop offset="0" stop-color="#3ee06a" stop-opacity=".75"/><stop offset="1" stop-color="#3ee06a" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glowA"><stop offset="0" stop-color="#ffb020" stop-opacity=".75"/><stop offset="1" stop-color="#ffb020" stop-opacity="0"/></radialGradient>
+  <linearGradient id="btn" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f1f3f5"/><stop offset="1" stop-color="#c9ced3"/>
+  </linearGradient>
+</defs>
+<rect x="0" y="2" width="102" height="36" rx="3" fill="#6b7279"/>
+<rect x=".5" y=".5" width="101" height="35" rx="3" fill="url(#btn)" stroke="#7d848b"/>
+<rect x="2" y="1.5" width="98" height="1" fill="#fff"/>
+<g><circle cx="16" cy="18.0" r="8" fill="url(#glowG)"/><circle cx="16" cy="18.0" r="3.5" fill="#3ee06a"/><circle cx="15" cy="16.8" r="1.1" fill="#fff" fill-opacity=".55"/></g>
+<path d="M28.7 23.9V12.4Q28.7 12.3 28.8 12.3Q28.9 12.2 29 12.2H30.9Q31 12.2 31.1 12.3Q31.1 12.3 31.1 12.4V22Q31.1 22.1 31.2 22.1H34.8Q34.9 22.1 34.9 22.1Q35 22.2 35 22.3V23.9Q35 24 34.9 24.1Q34.9 24.1 34.8 24.1H29Q28.9 24.1 28.8 24.1Q28.7 24 28.7 23.9ZM36.1 13.1Q36.1 12.5 36.5 12.1Q36.8 11.7 37.4 11.7Q38 11.7 38.4 12.1Q38.8 12.5 38.8 13.1Q38.8 13.6 38.4 14Q38 14.4 37.4 14.4Q36.9 14.4 36.5 14Q36.1 13.6 36.1 13.1ZM36.3 23.9V15.6Q36.3 15.5 36.3 15.4Q36.4 15.4 36.5 15.4H38.5Q38.5 15.4 38.6 15.4Q38.7 15.5 38.7 15.6V23.9Q38.7 24 38.6 24.1Q38.5 24.1 38.5 24.1H36.5Q36.4 24.1 36.3 24.1Q36.3 24 36.3 23.9ZM46.7 18.2V23.9Q46.7 24 46.6 24.1Q46.5 24.1 46.5 24.1H44.5Q44.4 24.1 44.3 24.1Q44.3 24 44.3 23.9V18.3Q44.3 17.8 44.1 17.6Q43.9 17.3 43.5 17.3Q43.1 17.3 42.9 17.6Q42.7 17.9 42.7 18.4V23.9Q42.7 24 42.6 24.1Q42.6 24.1 42.5 24.1H40.5Q40.4 24.1 40.4 24.1Q40.3 24 40.3 23.9V15.6Q40.3 15.5 40.4 15.4Q40.4 15.4 40.5 15.4H42.5Q42.6 15.4 42.6 15.4Q42.7 15.5 42.7 15.6V15.9Q42.7 16 42.7 16Q42.8 16 42.8 15.9Q43.4 15.2 44.4 15.2Q45.5 15.2 46.1 16Q46.7 16.8 46.7 18.2ZM48.2 23.9V12.4Q48.2 12.3 48.3 12.3Q48.3 12.2 48.4 12.2H50.4Q50.5 12.2 50.6 12.3Q50.6 12.3 50.6 12.4V18.1Q50.6 18.1 50.7 18.1Q50.7 18.1 50.7 18.1L52.2 15.5Q52.3 15.4 52.5 15.4H54.5Q54.6 15.4 54.7 15.4Q54.7 15.5 54.6 15.6L52.8 18.5Q52.8 18.5 52.8 18.6L54.9 23.9Q54.9 23.9 54.9 24Q54.9 24.1 54.7 24.1H52.6Q52.5 24.1 52.4 23.9L51.3 20.6Q51.3 20.5 51.3 20.5Q51.2 20.5 51.2 20.6L50.7 21.5Q50.6 21.5 50.6 21.6V23.9Q50.6 24 50.6 24.1Q50.5 24.1 50.4 24.1H48.4Q48.3 24.1 48.3 24.1Q48.2 24 48.2 23.9ZM61.9 20.5H58.2Q58.1 20.5 58.1 20.6V21.2Q58.1 21.6 58.3 21.9Q58.6 22.2 58.9 22.2Q59.2 22.2 59.5 22Q59.7 21.8 59.7 21.5Q59.8 21.3 59.9 21.3L61.9 21.4Q62 21.4 62 21.4Q62.1 21.5 62.1 21.6Q62 22.9 61.2 23.6Q60.4 24.3 58.9 24.3Q57.4 24.3 56.6 23.5Q55.7 22.7 55.7 21.4V18.1Q55.7 16.8 56.6 16Q57.4 15.2 58.9 15.2Q60.4 15.2 61.3 16Q62.1 16.8 62.1 18.1V20.3Q62.1 20.4 62.1 20.4Q62 20.5 61.9 20.5ZM58.1 18.3V18.9Q58.1 19 58.2 19H59.7Q59.7 19 59.7 18.9V18.3Q59.7 17.8 59.5 17.6Q59.3 17.3 58.9 17.3Q58.6 17.3 58.3 17.6Q58.1 17.8 58.1 18.3ZM67.7 12.2H69.7Q69.7 12.2 69.8 12.3Q69.9 12.3 69.9 12.4V23.9Q69.9 24 69.8 24.1Q69.7 24.1 69.7 24.1H67.7Q67.6 24.1 67.5 24.1Q67.5 24 67.5 23.9V23.6Q67.5 23.6 67.4 23.6Q67.4 23.6 67.4 23.6Q66.8 24.3 65.8 24.3Q64.7 24.3 64.1 23.5Q63.5 22.7 63.5 21.4V18.1Q63.5 16.7 64.1 16Q64.7 15.2 65.8 15.2Q66.2 15.2 66.6 15.4Q67 15.5 67.4 15.9Q67.4 15.9 67.4 15.9Q67.5 15.9 67.5 15.9V12.4Q67.5 12.3 67.5 12.3Q67.6 12.2 67.7 12.2ZM67.5 21.5V18.1Q67.4 17.7 67.2 17.5Q67 17.3 66.7 17.3Q66.3 17.3 66.1 17.6Q65.9 17.8 65.9 18.3V21.2Q65.9 21.7 66.1 21.9Q66.3 22.2 66.7 22.2Q67 22.2 67.2 22Q67.4 21.8 67.5 21.5ZM71.6 23.9V12.4Q71.6 12.3 71.6 12.3Q71.7 12.2 71.8 12.2H73.8Q73.9 12.2 73.9 12.3Q74 12.3 74 12.4V23.9Q74 24 73.9 24.1Q73.9 24.1 73.8 24.1H71.8Q71.7 24.1 71.6 24.1Q71.6 24 71.6 23.9ZM82.1 18.2V23.9Q82.1 24 82.1 24.1Q82 24.1 81.9 24.1H79.9Q79.8 24.1 79.8 24.1Q79.7 24 79.7 23.9V18.3Q79.7 17.8 79.5 17.6Q79.3 17.3 78.9 17.3Q78.6 17.3 78.3 17.6Q78.1 17.9 78.1 18.4V23.9Q78.1 24 78.1 24.1Q78 24.1 77.9 24.1H75.9Q75.9 24.1 75.8 24.1Q75.7 24 75.7 23.9V15.6Q75.7 15.5 75.8 15.4Q75.9 15.4 75.9 15.4H77.9Q78 15.4 78.1 15.4Q78.1 15.5 78.1 15.6V15.9Q78.1 16 78.2 16Q78.2 16 78.3 15.9Q78.8 15.2 79.8 15.2Q81 15.2 81.5 16Q82.1 16.8 82.1 18.2Z" fill="#11161c"/>
+</svg>
